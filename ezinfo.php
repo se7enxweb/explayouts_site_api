@@ -1,7 +1,7 @@
 <?php
 //
 // explayouts_site_api - Site API bridge between Exponential Layouts and expsite_api on Exponential Legacy / Exponential 6
-// Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
+// Copyright (C) 1998 - 2026 Exponential Foundation and 7x; All rights reserved.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -15,7 +15,7 @@ class explayouts_site_apiInfo
     {
         return array( 'Name' => "Exponential Layouts Site API",
                       'Version' => "1.0.7",
-                      'Copyright' => "Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.",
+                      'Copyright' => "Copyright (C) 1998 - 2026 Exponential Foundation and 7x; All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or any later version)",
                       'info_url' => "https://github.com/se7enxweb/explayouts_site_api" );
     }
